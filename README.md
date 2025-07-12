@@ -12,7 +12,7 @@ This repository contains a collection of simple JavaScript mini-projects built u
 | 02  | Simple Calculator      | Perform basic arithmetic (+, -, *, /)      |
 | 03  | Even/Odd Checker       | Determine whether a number is even or odd  |
 | 04  | Greatest Number Finder | Find the greatest among 3 given numbers    |
-| 05  | Grade Calculator       | (Coming soon) Assign grade based on marks  |
+| 05  | Grade Calculator       | Calculate grade based on marks (0–100)  |
 
 ---
 
